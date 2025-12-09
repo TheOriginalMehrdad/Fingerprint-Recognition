@@ -364,4 +364,3 @@ This project is for **academic and research purposes only**.
 Commercial use is not permitted without permission.
 
 ---
-### **Developed By Mahdi Siri F.**
